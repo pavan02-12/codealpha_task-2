@@ -1,0 +1,7 @@
+# codealpha_task-2
+Chat bot for FAQ'S
+faq_chatbot/
+│
+├── app.py               # Flask backend
+├── templates/
+│   └── index.html       # Chat UI
